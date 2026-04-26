@@ -1,3 +1,4 @@
 # Mecanismo-de-busca-com-exa-api
 
-Feito com python e exa api, ele busca informações dentro da plataforma 'tiktok' se baseando na sua pesquisa.
+Feito com python e exa api. Ele vai buscar informações dentro da plataforma 'tiktok' se baseando na sua pesquisa.
+
